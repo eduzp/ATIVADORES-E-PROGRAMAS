@@ -12,7 +12,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Ir atrás de como ativar
 - [x] Facilitando o processo
 - [x] Ativar ou instalar com somente 1 clique
-- [] Finalização do projeto
+- [ ] Finalização do projeto
 
 ## 💻 Pré-requisitos
 
