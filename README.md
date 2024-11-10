@@ -1,6 +1,6 @@
 # ATIVADORES e PROGRAMAS
 
-<img src="imagem.png" alt="img">
+<img src="image.png" alt="img">
 
 > FACILITAR A INSTALAÇÃO E ATIVAÇÃO DE PROGRAMAS POPULARES EMPRESARIAIS OU PESSOAIS.
 
