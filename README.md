@@ -1,6 +1,6 @@
 # ATIVADORES e PROGRAMAS
 
-<img src="TSW.png" alt="img plugin">
+<img src="imagem.png" alt="img">
 
 > FACILITAR A INSTALAÇÃO E ATIVAÇÃO DE PROGRAMAS POPULARES EMPRESARIAIS OU PESSOAIS.
 
