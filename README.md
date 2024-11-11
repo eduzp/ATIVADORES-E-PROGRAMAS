@@ -1,4 +1,4 @@
-# ATIVADORES EDUZP
+# INSTALADOR EDUZP
 
 <img src="image.png" alt="img">
 
