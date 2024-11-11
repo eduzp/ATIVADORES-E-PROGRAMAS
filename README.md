@@ -1,33 +1,32 @@
-# ATIVADORES e PROGRAMAS
+# ATIVADORES EDUZP
 
 <img src="image.png" alt="img">
 
-> FACILITAR A INSTALAÇÃO E ATIVAÇÃO DE PROGRAMAS POPULARES EMPRESARIAIS OU PESSOAIS.
+> FACILITAR A INSTALAÇÃO DE PROGRAMAS POPULARES EMPRESARIAIS OU PESSOAIS.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [x] Estudo sobre programas mais usados
-- [x] Ir atrás de como ativar
-- [x] Facilitando o processo
-- [x] Ativar ou instalar com somente 1 clique
-- [ ] Finalização do projeto
+- [x] Analisar programas mais usados
+- [x] Buscar linguagem mais eficiente para o projeto
+- [x] Instalar sem precisar de mais de um programa
+- [x] Otimizar o código
+- [ ] Adicionar novos programas
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Não possui o programa ou versão anterior instalada em caso de erro.
-- Possuir suporte para execução de arquivos .bat.
-- Consultar os requisitos do programa.
+- Possuir suporte para execução dos arquivos.
 
 ## 🚀 Como Usar
 
-Para instalar ou ativar, siga estas etapas:
+Para instalar, siga estas etapas:
 
 ```
-Baixe o arquivo separado ou a pasta completa, escolha o programa através do nome no arquivo.
+Baixe o arquivo, execute e selecione a instalação desejada.
 ```
 
 ## 📝 Licença
