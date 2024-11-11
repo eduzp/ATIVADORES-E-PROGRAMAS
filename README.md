@@ -13,6 +13,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Instalar sem precisar de mais de um programa
 - [x] Otimizar o código
 - [ ] Adicionar novos programas
+- [ ] Adicionar interface gráfica e interativa
 
 ## 💻 Pré-requisitos
 
